@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhitenBeerAdviser</string>
+    <string name="button">Find Beer!</string>
+    <string name="beer_types">no beer selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
