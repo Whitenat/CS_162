@@ -25,6 +25,7 @@
         android:layout_gravity="center"
         android:layout_margin="16dp"
         android:text="@string/button"
+        android:onClick="onClickFindBeer"
         />
 
     <TextView
@@ -33,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="@string/beer_types"
+        android:text="@string/beerType"
         />
 
 </LinearLayout>
