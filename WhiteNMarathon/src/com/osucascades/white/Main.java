@@ -13,11 +13,11 @@ public class Main {
                 341,273,278,329,445,402,388,275,243,334,412,293,299,343,317,265
         };
 
-        int fastestTime = 0;
+        int fastestTime = 10000;
         int fastestIndex = 0;
 
         for(int i = 0; i <names.length; ++i) {
-            if(times[i] > fastestTime){
+            if(times[i] < fastestTime){
                 fastestIndex = i;
                 fastestTime = times[i];
             }
