@@ -1,7 +1,7 @@
 package edu.osucascades.white;
 import java.util.*;
 
-public class Zombie {
+public class Zombie extends Monster {
 
     String name;
     String noise;
@@ -13,19 +13,19 @@ public class Zombie {
         noise = "Hi!";
     }
 
-    void setName(String name){
+    public void setName(String name){
         this.name = name;
     }
 
-    void setHealth(int health){
+    public void setHealth(int health){
         this.health = health;
     }
 
-    void setSpeed(int speed){
+    public void setSpeed(int speed){
         this.speed = speed;
     }
 
-    void makeNoise(){
+    public void makeNoise(){
         System.out.println(noise + name);
     }
 

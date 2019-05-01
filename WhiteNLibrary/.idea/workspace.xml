@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb8e8c78-4b4f-43e7-b1c8-6f90a973f912" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/osucascades/white/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/osucascades/white/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WhiteNMarathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteNMarathon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WhiteNMarathon/out/production/WhiteNMarathon/com/osucascades/white/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteNMarathon/out/production/WhiteNMarathon/com/osucascades/white/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WhiteNMarathon/src/com/osucascades/white/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteNMarathon/src/com/osucascades/white/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhiteNZombie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhiteNZombie/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/osucascades/white/Library.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="61">
+              <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -78,11 +74,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -149,6 +141,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="207" y="23" width="954" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19973719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -186,10 +179,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../WhiteNZombie/WhiteNZombie.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/osucascades/white/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="61">
+          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
         </state>
       </provider>
     </entry>
