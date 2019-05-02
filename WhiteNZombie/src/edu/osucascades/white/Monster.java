@@ -99,6 +99,10 @@ class Monster {
 
         for(Zombie zombie :zombies){
             zombie.makeNoise();
+            if(zombie instanceof SingingZombie){
+                ((SingingZombie) zombie).favoriteSong();
+
+            }
         }
 
 
