@@ -42,17 +42,7 @@ public class Zombie extends Monster {
 //        zombieFour.makeNoise();
 //        zombieFive.makeNoise();
 //
-        ArrayList<Zombie>zombies= new ArrayList<>();
 
-        zombies.add(new GroaningZombie("Steve"));
-        zombies.add(new WhisperingZombie("Shelly"));
-        zombies.add(new SingingZombie ("Paula"));
-        zombies.add(new RappingZombie("Stuart"));
-        zombies.add(new ShoutingZombie ("Shayla"));
-
-        for(Zombie zombie :zombies){
-            zombie.makeNoise();
-        }
 
 
 

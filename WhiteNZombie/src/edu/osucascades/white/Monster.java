@@ -1,5 +1,7 @@
 package edu.osucascades.white;
 
+import java.util.ArrayList;
+
 class Monster {
     //add fields using the most restrictive type possible
     //For all fields think about the following:
@@ -87,6 +89,17 @@ class Monster {
         Monster walter = new Monster("Walter", 1);
         pete.sayName();
         pete.attack(walter,2);
+        ArrayList<Zombie> zombies= new ArrayList<>();
+
+        zombies.add(new GroaningZombie("Steve"));
+        zombies.add(new WhisperingZombie("Shelly"));
+        zombies.add(new SingingZombie ("Paula"));
+        zombies.add(new RappingZombie("Stuart"));
+        zombies.add(new ShoutingZombie ("Shayla"));
+
+        for(Zombie zombie :zombies){
+            zombie.makeNoise();
+        }
 
 
         //Test your monster object before moving on
