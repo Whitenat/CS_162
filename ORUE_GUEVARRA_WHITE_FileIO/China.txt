@@ -1,0 +1,13 @@
+China   life expectancy
+China   31.8
+China   40.7
+China   30.9
+China   61.0
+China   64.2
+China   67.0
+China   70.0
+China   74.6
+China   76.9
+The minimum life expectancy for China is 30.9
+The maximum life expectancy for China is 76.9
+the average life expectancy for China is 57.45555

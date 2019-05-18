@@ -1,0 +1,13 @@
+Russia   life expectancy
+Russia   30.7
+Russia   57.0
+Russia   68.2
+Russia   68.3
+Russia   67.1
+Russia   69.0
+Russia   65.6
+Russia   69.2
+Russia   71.1
+The minimum life expectancy for Russia is 65.6
+The maximum life expectancy for Russia is 71.1
+the average life expectancy for Russia is 62.911106

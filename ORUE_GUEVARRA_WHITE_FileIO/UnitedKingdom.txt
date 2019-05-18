@@ -1,0 +1,13 @@
+UnitedKingdom   life expectancy
+UnitedKingdom   46.3
+UnitedKingdom   68.6
+UnitedKingdom   71.0
+UnitedKingdom   71.8
+UnitedKingdom   73.5
+UnitedKingdom   75.7
+UnitedKingdom   77.8
+UnitedKingdom   80.3
+UnitedKingdom   81.2
+The minimum life expectancy for UnitedKingdom is 100.0
+The maximum life expectancy for UnitedKingdom is 81.2
+the average life expectancy for UnitedKingdom is 71.8

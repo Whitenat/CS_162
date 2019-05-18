@@ -1,0 +1,13 @@
+Netherlands   life expectancy
+Netherlands   48.4
+Netherlands   71.5
+Netherlands   73.5
+Netherlands   73.7
+Netherlands   75.8
+Netherlands   77.0
+Netherlands   78.1
+Netherlands   80.7
+Netherlands   81.9
+The minimum life expectancy for Netherlands is 100.0
+The maximum life expectancy for Netherlands is 81.9
+the average life expectancy for Netherlands is 73.399994

@@ -1,0 +1,13 @@
+UnitedStates   life expectancy
+UnitedStates   48.9
+UnitedStates   68.1
+UnitedStates   69.9
+UnitedStates   70.9
+UnitedStates   73.9
+UnitedStates   75.4
+UnitedStates   76.9
+UnitedStates   78.7
+UnitedStates   79.1
+The minimum life expectancy for UnitedStates is 100.0
+The maximum life expectancy for UnitedStates is 79.1
+the average life expectancy for UnitedStates is 71.311104

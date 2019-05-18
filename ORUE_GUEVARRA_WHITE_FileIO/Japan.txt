@@ -1,0 +1,13 @@
+Japan   life expectancy
+Japan   38.6
+Japan   59.4
+Japan   68.0
+Japan   72.3
+Japan   76.2
+Japan   78.9
+Japan   81.0
+Japan   82.8
+Japan   84.2
+The minimum life expectancy for Japan is 100.0
+The maximum life expectancy for Japan is 84.2
+the average life expectancy for Japan is 71.26667
